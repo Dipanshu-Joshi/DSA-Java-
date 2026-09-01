@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
