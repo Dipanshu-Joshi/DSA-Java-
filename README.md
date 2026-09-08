@@ -13,8 +13,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
