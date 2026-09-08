@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0007-reverse-integer](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0070-climbing-stairs) |
+| [3870-count-commas-in-range](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/3870-count-commas-in-range) |
 ## Linked List
 |  |
 | ------- |
