@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0039-combination-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,4 +28,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dipanshu-Joshi/DSA-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
